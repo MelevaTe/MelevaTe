@@ -2,7 +2,7 @@
 
 # Hi, I'm MelevaTe 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=650&lines=Frontend+Developer;React+%2B+TypeScript;FSD+and+Scalable+Architecture;Redux+Toolkit+%7C+Webpack+%7C+Vite" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=650&lines=Frontend+Developer;React+%2B+TypeScript;FSD;Redux+Toolkit+%7C+Webpack+%7C+Vite" alt="Typing SVG" />
 
 </div>
 
