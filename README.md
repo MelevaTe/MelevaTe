@@ -1,8 +1,10 @@
 <div align="center">
 
-# Hi, I'm MelevaTe 👋
+<h1>Hi, I'm MelevaTe 👋</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=650&lines=Frontend+Developer;React+%2B+TypeScript;FSD;Redux+Toolkit+%7C+Webpack+%7C+Vite" alt="Typing SVG" />
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=420&lines=Frontend+Developer;React+%2B+TypeScript;FSD+%7C+Scalable+Architecture" alt="Typing SVG" />
+</p>
 
 </div>
 
