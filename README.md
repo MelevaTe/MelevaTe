@@ -3,7 +3,7 @@
 <h1>Hi, I'm MelevaTe 👋</h1>
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=420&lines=Frontend+Developer;React+%2B+TypeScript;FSD+%7C+Scalable+Architecture" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=420&lines=Frontend+Developer;React+%2B+TypeScript;FSD" alt="Typing SVG" />
 </p>
 
 </div>
